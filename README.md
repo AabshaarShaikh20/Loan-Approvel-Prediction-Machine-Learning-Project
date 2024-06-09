@@ -21,3 +21,13 @@ The dataset used in this project includes various features related to applicants
  
 ![Screenshot (15)](https://github.com/AabshaarShaikh20/Loan-Approvel-Prediction-Machine-Learning-Project/assets/169930813/9238f517-a5dc-4041-a63d-680e4e6086fb)
 
+
+
+
+
+
+
+
+#### Author - Aabshaar Shaikh
+
+#### Email  - aabshaarshaikh@gmail.com 
